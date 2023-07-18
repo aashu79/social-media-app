@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/scoail-media-app/static/css/main.c7ec3132.css",
+    "main.js": "/scoail-media-app/static/js/main.97c05d0b.js",
+    "static/media/bird.jpg": "/scoail-media-app/static/media/bird.16fedc2617d9082ae226.jpg",
+    "index.html": "/scoail-media-app/index.html",
+    "main.c7ec3132.css.map": "/scoail-media-app/static/css/main.c7ec3132.css.map",
+    "main.97c05d0b.js.map": "/scoail-media-app/static/js/main.97c05d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.97c05d0b.js"
+  ]
+}
